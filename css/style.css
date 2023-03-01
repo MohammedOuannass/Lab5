@@ -1,34 +1,7 @@
-body {
-	font-family: Lato, sans-serif;
-	background-color: #e6f7ff;
-	color: #333333;
-  }
-h1 {
-	text-align: center;
-	font-family: Verdana,sans-serif;
-	font-style: italic;
-  }
-table {
-	margin: auto;
-	border-collapse: collapse;
-	font-size: 18px;
-  }
-table th {
-  font-family: Times New Roman, Times, serif;
-  font-size: 18px;
-  }
-table td {
-	  font-family: Times New Roman, Times, serif;
-  }
 td, th {
 	padding: 10px;
 	border: 1px solid #ccc;
   }
-th {
-	background-color: #ddd;
-	font-weight: bold;
-  }
-
 img {
 	max-width: 150px;
 	max-height: 150px;

@@ -36,6 +36,10 @@ table td.data {
   font-family: "Times New Roman", sans-serif;
 }
 
+table td.base {
+	  font-family: "Times New Roman", sans-serif;
+}
+
 table tr:nth-child(even) {
   background-color: #f2f2f2;
 }

@@ -44,3 +44,10 @@ table td:hover,
 table th:hover {
   background-color: #ddd;
 }
+
+img {
+  max-width: 150px;
+  max-height: 150px;
+  object-fit: cover;
+}
+

@@ -9,6 +9,12 @@ table {
 	margin: auto;
 	border-collapse: collapse;
   }
+table th {
+  font-family: Times New Roman, Times, serif;
+  }
+table td {
+	  font-family: Times New Roman, Times, serif;
+  }
 td, th {
 	padding: 10px;
 	border: 1px solid #ccc;
